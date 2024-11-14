@@ -34,11 +34,11 @@ I encourage contributions to improve and expand this VSCode extension pack. Here
 ### How to Contribute
 
 1. **Fork the Repository**:
-   - Go to the [repository][(https://github.com/yourusername/your-repo-name](https://github.com/aaronchenghs/aarons_vscode_extensions)) and click on **Fork** to create your own copy.
+   - Go to the Repository: [(https://github.com/aaronchenghs/aarons_vscode_extensions](https://github.com/aaronchenghs/aarons_vscode_extensions) and click on **Fork** to create your own copy.
 
 2. **Clone Your Fork**:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/aaronchenghs/aarons_vscode_extensions.git)
+   git clone https://github.com/aaronchenghs/aarons_vscode_extensions.git
    cd aarons_vscode_extensions
    ```
 
