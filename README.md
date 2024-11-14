@@ -39,13 +39,13 @@ I encourage contributions to improve and expand this VSCode extension pack. Here
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/aaronchenghs/aarons_vscode_extensions.git
-   cd aarons_vscode_extensions
+   git clone [HTTPS to your fork]
+   cd aarons_vscode_extensions(or your fork name)
    ```
 
-3. **Clone Your Fork**:
- ```bash
-   git checkout -b feature/your-feature-name
+3. **Intall Dependencies***
+```bash
+npm install
 ```
 
 4. **Make Your Changes**:
@@ -54,6 +54,11 @@ I encourage contributions to improve and expand this VSCode extension pack. Here
    vsce package
    code --install-extension path/to/your-extension-pack.vsix
 ```
+
+OR if you have the extension ids for the extensions you want to add readily available:
+ 1. Navigate to package.json
+ 2. Find the 'extensionPack' region
+ 3. Append the id to this list
 
 5. Commit Your Changes:
  ```bash
