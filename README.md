@@ -14,7 +14,7 @@ This repository levarages the [Yeoman Code Generator NPM package](https://www.np
 To quickly set up your VSCode environment with my extension pack, follow these steps:
 
 1. **Download the `.vsix` File**:
-   - Go to the [Releases]([[[https://github.com/yourusername/your-repo-name/release](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)s](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main)](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)) folder of this repository.
+   - Go to the [Releases](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases) folder of this repository.
    - Download the `.vsix` file from the newest release (e.g., `team-standard-pack-0.0.1.vsix`).
 
 2. **Install the Extension Pack**:
