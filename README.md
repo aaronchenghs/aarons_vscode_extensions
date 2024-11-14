@@ -10,7 +10,7 @@ Welcome to the **Aaron's VSCode Extension Pack**! This extension pack includes a
 
 ## Installation
 
-To quickly set up your VSCode environment with our extension pack, follow these steps:
+To quickly set up your VSCode environment with my extension pack, follow these steps:
 
 1. **Download the `.vsix` File**:
    - Go to the [Releases]([[[https://github.com/yourusername/your-repo-name/release](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)s](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main)](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)) folder of this repository.
