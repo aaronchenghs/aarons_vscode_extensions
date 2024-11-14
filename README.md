@@ -27,3 +27,40 @@ Alternatively, you can use the command line:
 code --install-extension path/to/my-extension-pack.vsix
 ```
 
+## Contributing
+
+We encourage contributions to improve and expand this VSCode extension pack. Here’s how you can contribute:
+
+### How to Contribute
+
+1. **Fork the Repository**:
+   - Go to the [repository][(https://github.com/yourusername/your-repo-name](https://github.com/aaronchenghs/aarons_vscode_extensions)) and click on **Fork** to create your own copy.
+
+2. **Clone Your Fork**:
+   ```bash
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/aaronchenghs/aarons_vscode_extensions.git)
+   cd aarons_vscode_extensions
+   ```
+
+3. **Clone Your Fork**:
+   git checkout -b feature/your-feature-name
+
+4. **Make Your Changes**:
+   - Run the extension locally to ensure your changes work as expected:
+ ```bash
+   vsce package
+   code --install-extension path/to/your-extension-pack.vsix
+```
+
+5. Commit Your Changes:
+ ```bash
+git add .
+git commit -m "Add/update: Brief description of your change"
+```
+
+6. Push to Your Branch
+ ```bash
+git push origin feature/your-feature-name
+```
+
+7. Create a Pull Request
