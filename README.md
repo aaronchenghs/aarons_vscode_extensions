@@ -1,6 +1,7 @@
 # Aaron's VSCode Extension Pack
 
 Welcome to the **Aaron's VSCode Extension Pack**! This extension pack includes all the essential Visual Studio Code extensions I use for consistent development practices.
+This repository levarages the [Yeoman Code Generator NPM package](https://www.npmjs.com/package/generator-code) to create an easy-to-use extensions package manager
 
 ## Table of Contents
 - [Installation](#installation)
@@ -43,7 +44,9 @@ I encourage contributions to improve and expand this VSCode extension pack. Here
    ```
 
 3. **Clone Your Fork**:
+ ```bash
    git checkout -b feature/your-feature-name
+```
 
 4. **Make Your Changes**:
    - Run the extension locally to ensure your changes work as expected:
