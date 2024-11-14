@@ -1,0 +1,45 @@
+{
+    "name": "team-standard-pack",
+    "displayName": "Aaron's Extension",
+    "description": "This is a TEST extensions pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.95.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aaronchenghs/aarons_vscode_extensions.git"
+    },
+    "extensionPack": [
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "cschlosser.doxdocgen",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "github.copilot",
+        "github.copilot-chat",
+        "gitlab.gitlab-workflow",
+        "hnw.vscode-auto-open-markdown-preview",
+        "idleberg.icon-fonts",
+        "johnpapa.vscode-peacock",
+        "mikestead.dotenv",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "naumovs.color-highlight",
+        "rangav.vscode-thunder-client",
+        "redstonewizard08.gitlab",
+        "shd101wyy.markdown-preview-enhanced",
+        "streetsidesoftware.code-spell-checker",
+        "tonybaloney.vscode-pets",
+        "usernamehw.errorlens",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "visualstudioexptteam.vscodeintellicode",
+        "vscode-icons-team.vscode-icons",
+        "wayou.vscode-todo-highlight"
+    ]
+}
