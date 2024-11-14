@@ -59,8 +59,12 @@ OR if you have the extension ids for the extensions you want to add readily avai
  1. Navigate to package.json
  2. Find the 'extensionPack' region
  3. Append the id to this list
+ 4. Run ```vsce package```
 
-5. Commit Your Changes:
+After doing either of the above, you should now have a new .vsix file in the root directory.
+Create a new folder in the Releases module found in the root corresponding to your new version, and place the .vsix file in there.
+
+6. Commit Your Changes:
  ```bash
 git add .
 git commit -m "Add/update: Brief description of your change"
