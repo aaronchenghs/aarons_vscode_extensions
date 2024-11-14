@@ -13,7 +13,7 @@ Welcome to the **Aaron's VSCode Extension Pack**! This extension pack includes a
 To quickly set up your VSCode environment with our extension pack, follow these steps:
 
 1. **Download the `.vsix` File**:
-   - Go to the [Releases]([https://github.com/yourusername/your-repo-name/release](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)s) page of this repository.
+   - Go to the [Releases]([[[https://github.com/yourusername/your-repo-name/release](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)s](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main)](https://github.com/aaronchenghs/aarons_vscode_extensions/tree/main/Releases)) folder of this repository.
    - Download the `.vsix` file from the newest release (e.g., `team-standard-pack-0.0.1.vsix`).
 
 2. **Install the Extension Pack**:
@@ -29,7 +29,7 @@ code --install-extension path/to/my-extension-pack.vsix
 
 ## Contributing
 
-We encourage contributions to improve and expand this VSCode extension pack. Here’s how you can contribute:
+I encourage contributions to improve and expand this VSCode extension pack. Here’s how you can contribute:
 
 ### How to Contribute
 
@@ -64,3 +64,8 @@ git push origin feature/your-feature-name
 ```
 
 7. Create a Pull Request
+
+Go to the original repository and create a pull request from your branch.
+Provide a clear description of what your changes do and why they are necessary.
+
+THank you for your contributions!
