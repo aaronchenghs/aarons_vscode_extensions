@@ -38,10 +38,10 @@ I encourage contributions to improve and expand this VSCode extension pack. Here
    - Go to the Repository: [(https://github.com/aaronchenghs/aarons_vscode_extensions](https://github.com/aaronchenghs/aarons_vscode_extensions) and click on **Fork** to create your own copy.
 
 2. **Clone Your Fork**:
-   ```bash
-   git clone [HTTPS to your fork]
-   cd aarons_vscode_extensions(or your fork name)
-   ```
+```bash
+git clone [HTTPS to your fork]
+cd aarons_vscode_extensions(or your fork name)
+```
 
 3. **Intall Dependencies***
 ```bash
