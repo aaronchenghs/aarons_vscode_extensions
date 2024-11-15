@@ -81,4 +81,4 @@ git push origin feature/your-feature-name
 Go to the original repository and create a pull request from your branch.
 Provide a clear description of what your changes do and why they are necessary.
 
-THank you for your contributions!
+Thank you for your contributions!
