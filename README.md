@@ -43,25 +43,26 @@ git clone [HTTPS to your fork]
 cd aarons_vscode_extensions(or your fork name)
 ```
 
-3. **Intall Dependencies***
+3. **Intall Dependencies**:
 ```bash
 npm install
 ```
 
 4. **Make Your Changes**:
+   - Use Yo Code to create an extension package,
+     OR if you have the extension ids for the extensions you want to add readily available:
+       1. Navigate to package.json
+       2. Find the 'extensionPack' region
+       3. Append the id to this list
+       4. 
    - Run the extension locally to ensure your changes work as expected:
+   - 
  ```bash
    vsce package
    code --install-extension path/to/your-extension-pack.vsix
 ```
 
-OR if you have the extension ids for the extensions you want to add readily available:
- 1. Navigate to package.json
- 2. Find the 'extensionPack' region
- 3. Append the id to this list
- 4. Run ```vsce package```
-
-After doing either of the above, you should now have a new .vsix file in the root directory.
+After doing the above, you should now have a new .vsix file in the root directory.
 Create a new folder in the Releases module found in the root corresponding to your new version, and place the .vsix file in there.
 
 6. Commit Your Changes:
